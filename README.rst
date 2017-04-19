@@ -53,3 +53,6 @@ An example notifications.py might look like this::
             return ''
 
     admin_notifications.register(notification)
+    
+    
+Installing the package with pip only installs the init.py file and no other module so clone the repository to make it work
